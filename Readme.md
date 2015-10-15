@@ -1,8 +1,6 @@
 ### About
 
-A swiss tournament involves a system for matching competitors. It is a non-elimination tournament, and competitors are matched based on a point system. 
-
-This program uses SQL to generate swiss pairing in a tournament. 
+A swiss tournament involves a system for matching competitors. It is a non-elimination tournament, and competitors are matched based on a point system. This project uses a PostgreSQL database to model swiss pairing in a tournament. There are also functions in python to report results and get pairings. 
 
 ### Configuration Instructions
 
